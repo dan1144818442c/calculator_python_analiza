@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aadc9ab5-3541-42ab-ae5b-5583a05eb4e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class_Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circle_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Square_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Triangle_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_Rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_Rectangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "24__6"
   }
