@@ -1,7 +1,7 @@
-import calculator
+import class_shape
 
 
-class Rectangle(calculator.Shape):
+class Rectangle(class_shape.Shape):
     def __init__(self , high , side):
         self.high = high
         self.side = side

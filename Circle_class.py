@@ -1,9 +1,8 @@
 import math
 
-import calculator
+import class_shape
 
-
-class Circle(calculator.Shape):
+class Circle(class_shape.Shape):
     def __init__(self , radius):
         self.radiud = radius
     def get_area(self):
